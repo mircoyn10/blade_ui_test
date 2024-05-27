@@ -14,6 +14,12 @@ se non vedi i cambiamenti riguardanti css o altri probabilmente dovrai far parti
 `npm run dev`
 
 <H1>TROUBLESHOOTING</h1>
+
+<h2> manca cartella vendor</h2>
 se dovesse mancare la cartella vendor scrivere sul terminale nella cartella dove c'è il progetto
 
-`compeser install`
+`composer install`
+
+<h2>error 500</h2>
+
+`php artisan key:generate`
