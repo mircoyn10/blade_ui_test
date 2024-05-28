@@ -21,6 +21,7 @@ se dovesse mancare la cartella vendor scrivere sul terminale nella cartella dove
 `composer install`
 
 <h2>error 500</h2>
+controlla se esiste il file .env
 
 `php artisan key:generate`
 
