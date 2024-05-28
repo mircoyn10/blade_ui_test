@@ -21,5 +21,14 @@ se dovesse mancare la cartella vendor scrivere sul terminale nella cartella dove
 `composer install`
 
 <h2>error 500</h2>
+controlla se esiste il file .env
 
 `php artisan key:generate`
+
+<h2>MANCA IL FILE .env</h2>
+copiate .env.example e create voi il file
+
+<h2>Ricordate di creare un DB saul vostro db</h2>
+
+<h2>PER altre cose aggiornare codesto file</h2>
+il debug è gia attivo ed è stato standardizzato qui
