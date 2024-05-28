@@ -31,4 +31,4 @@ copiate .env.example e create voi il file
 <h2>Ricordate di creare un DB saul vostro db</h2>
 
 <h2>PER altre cose aggiornare codesto file</h2>
-il debug è gia attivo ed è stato standardizzato qui
+il debug è gia attivo ed è stato standardizzato nel progetto
