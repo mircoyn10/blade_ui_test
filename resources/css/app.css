@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+.sfondino{
+    background-image: url("/public/img/sfondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50vh;
+    width: 100vw;
+}
+
+.swasso {
+    background-color: #e9eff3;
+}
+
 .propick{
     border: 1px solid #ddd;
     border-radius: 4px;

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel 11 letsgooooo</title>
+    <title>MetJobs</title>
     @vite([ 'resources/js/app.js', 'resources/css/app.css'])
 </head>
 
@@ -14,9 +14,11 @@
     <nav1 class="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
-                <img src="img/Copia di favicon.png" class="h-8" alt="Flowbite Logo" />
+                <!-- LOGO -->
+                <img src="img/MetJob_L.png" class="h-8" alt="MetJob Logo" />
                 <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">MetJob</span>
             </a>
+
             <button data-collapse-toggle="navbar-dropdown" type="button"
                 class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
                 aria-controls="navbar-dropdown" aria-expanded="false">
@@ -89,6 +91,7 @@
         <div class="mx-auto w-full max-w-screen-xl">
             <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
                 <div>
+<!-- ############################################################################################################################################################################################################# -->
                     <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
                     <ul class="text-gray-500 dark:text-gray-400 font-medium">
                         <li class="mb-4">
@@ -106,6 +109,8 @@
                     </ul>
                 </div>
                 <div>
+
+<!--##################################################################################################################################################################################################### -->
                     <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Help center</h2>
                     <ul class="text-gray-500 dark:text-gray-400 font-medium">
                         <li class="mb-4">
@@ -123,6 +128,7 @@
                     </ul>
                 </div>
                 <div>
+<!-- ################################################################################################################################################################################################## -->
                     <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
                     <ul class="text-gray-500 dark:text-gray-400 font-medium">
                         <li class="mb-4">
@@ -137,6 +143,7 @@
                     </ul>
                 </div>
                 <div>
+    <!-- ################################################################################################################################################################################################################### -->
                     <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2>
                     <ul class="text-gray-500 dark:text-gray-400 font-medium">
                         <li class="mb-4">
