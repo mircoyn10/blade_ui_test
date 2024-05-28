@@ -16,15 +16,27 @@
     background-color: #e9eff3;
 }
 
-/* spazio tra una parte e l'alatra usare un div */
+/* spazio tra una parte e l'alatra usare un div e modificare a piacere*/
 .space{
     padding-top:30%;
 }
 
+/* l'effetto per l'header per il box e lo sfondo */
 .hh{
-    border-bottom:5px solid black;
-    border-left:5px solid black; 
-    border-right:5px solid black; 
-    box-shadow: #136b9b 15px 15px;
- 
-}
+    /* box */
+    border-bottom:5px solid #1888c5;
+    border-left:5px solid #20adfb; 
+    border-right:5px solid #20adfb;
+    /* sfondo del box*/ 
+    box-shadow: #136b9b 10px 10px 5px;
+ }
+
+ .formshadow{
+    /* sfondo del form dell'accesso */
+    box-shadow: #136b9b 10px 10px 10px;
+ }
+
+ /* colore del bottone */
+ .btnclr{
+    background-color: #20adfb;
+ }
